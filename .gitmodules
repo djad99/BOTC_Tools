@@ -1,0 +1,6 @@
+[submodule "Night_Order_Instructions"]
+	path = Night_Order_Instructions
+	url = git@github.com:djad99/Blood-on-the-Clocktower-Night-Order-Instructions.git
+[submodule "Almanac_Creator"]
+	path = Almanac_Creator
+	url = git@github.com:djad99/Blood-on-the-Clocktower-Almanac-Creator.git
